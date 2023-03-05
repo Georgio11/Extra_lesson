@@ -1,11 +1,16 @@
 {
 	"users": [
+<<<<<<< HEAD
         {
+=======
+		{
+>>>>>>> 4fca6ea85945aa40ba08f36118fb6698bedf142f
 			"id": 1,
 			"name": "Yehor",
 			"sirname": "Senchenko",
 			"photo_url": "https://static-cse.canva.com/blob/847064/29.jpg",
 			"balance": 1000
+<<<<<<< HEAD
 		},
 		{
 			"id": 2,
@@ -13,6 +18,8 @@
 			"sirname": "Zed",
 			"photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_MyLp6mXXGT2bt5ePGWom1yWmgBN9T3EW1A&usqp=CAU",
 			"balance": 1000
+=======
+>>>>>>> 4fca6ea85945aa40ba08f36118fb6698bedf142f
 		}
 	]
 }
