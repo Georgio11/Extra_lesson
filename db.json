@@ -1,0 +1,11 @@
+{
+	"users": [
+		{
+			"id": 1,
+			"name": "Yehor",
+			"sirname": "Senchenko",
+			"photo_url": "https://static-cse.canva.com/blob/847064/29.jpg",
+			"balance": 1000
+		}
+	]
+}
