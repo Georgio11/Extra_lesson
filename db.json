@@ -21,5 +21,12 @@
 			"photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_MyLp6mXXGT2bt5ePGWom1yWmgBN9T3EW1A&usqp=CAU",
 			"balance": 1000
 		}
+		{
+			"id": 5,
+			"name": "Vadym",
+			"sirname": "Antnentyk",
+			"photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4YZPtXgx-M0IxDaVZSQvMCNQ0eR_vaCqeog&usqp=CAU",
+			"balance": 100000
+		}
 	]
 }
